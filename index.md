@@ -10,7 +10,7 @@ creating interactive stories, animations and games. We have provided a few activ
 If you're already familiar with Scratch or have any questions about it - please let us know.
 
 ## Who We Are
-We are Dr Elena Prieto and Mr Daniel Hickmott, from the School of Education at the University of Newcastle. We have been running 
+We are *Dr Elena Prieto* and *Mr Daniel Hickmott*, from the School of Education at the University of Newcastle. We have been running 
 2 day professional development workshops for teachers since 2013. These workshops include:
 
 - An introduction to Computational Thinking

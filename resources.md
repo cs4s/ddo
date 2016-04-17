@@ -7,7 +7,7 @@ permalink: /resources/
 # Resources
 
 If you are interested in finding out more about Scratch or Computational Thinking, we have provided
-some resources for you to check out.
+some resources for you to explore.
 
 ## Websites
 
