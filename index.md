@@ -5,9 +5,9 @@ layout: default
 # Teacher Workshop
 
 ## Purpose
-This workshop is intended to be a quick introduction to Scratch. Scratch is a tool for creating animations, games and other programs. 
-We have provided a few activities that you can explore at your own pace. If you're already familiar with Scratch or have any questions 
-about it - please let us know.
+This workshop is intended to be a quick introduction to [Scratch](http://scratch.mit.edu). Scratch is a tool for 
+creating interactive stories, animations and games. We have provided a few activities that you can explore at your own pace. 
+If you're already familiar with Scratch or have any questions about it - please let us know.
 
 ## Who We Are
 We are Dr Elena Prieto and Mr Daniel Hickmott, from the School of Education at the University of Newcastle. We have been running 
