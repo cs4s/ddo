@@ -23,4 +23,4 @@ There is more information about these workshops available [here](http://newcastl
 ## Future Professional Development Opportunities
 We are running a CS4S workshop for Primary School teachers in November. Registration for this workshop has not opened yet. 
 However, if you would like to be notified when registration opens, or would like to know about other professional development 
-oppurtunities in this area, please [fill in and submit this form](https://goo.gl/jEclWr).
+opportunities in this area, please [fill in and submit this form](https://goo.gl/jEclWr).
