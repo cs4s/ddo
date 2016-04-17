@@ -11,8 +11,8 @@
 }
 
 .site-title {
-    font-size: 38px;
-    font-weight: 300;
+    font-size: 40px;
+    font-weight: 450;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -35,6 +35,8 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        font-size: $base-font-size * 1.125;
+        font-weight: 475;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
