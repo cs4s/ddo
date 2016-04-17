@@ -8,7 +8,8 @@
 # Site settings
 title: Digital Day Out 
 email: daniel.hickmott@uon.edu.au
-baseurl: "/ddo" # the subpath of your site, e.g. /blog
+contact: Daniel Hickmott
+baseurl: "/ddo"
 
 # Build settings
 markdown: kramdown
