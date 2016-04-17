@@ -11,10 +11,16 @@ about it - please let us know.
 
 ## Who We Are
 We are Dr Elena Prieto and Mr Daniel Hickmott, from the School of Education at the University of Newcastle. We have been running 
-professional development workshops, titled Computer Science 4 Schools, since 2013. These workshops are focused on the teaching of 
-Computational Thinking.
+2 day professional development workshops for teachers since 2013. These workshops include:
+
+- An introduction to Computational Thinking
+- Hands-on activities with Coding, Robots and AppInventor
+- Examples of the applications of Computer Science in research and industry
+- Presentations from educators that have integrated Computer Science activities into their classrooms
+
+There is more information about these workshops available [here](http://newcastle.edu.au/cs4s).
 
 ## Future Professional Development Opportunities
 We are running a CS4S workshop for Primary School teachers in November. Registration for this workshop has not opened yet. 
 However, if you would like to be notified when registration opens, or would like to know about other professional development 
-oppurtunities in this area, please fill in this form.
+oppurtunities in this area, please [fill in and submit this form](https://goo.gl/jEclWr).
