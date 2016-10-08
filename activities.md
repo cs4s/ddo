@@ -1,22 +1,38 @@
 ---
 layout: default
 title: Activities
-permalink: /activities/
+permalink: /activities
 ---
 
 # Activities
 
-## CS First
+## My Robotic Friends
 
-[CS First](https://www.cs-first.com/materials){:target="_blank"} is a free program that provides lessons to learn about Computer Science. 
-The lessons use Scratch and are themed for students' different interests, for example: sports, music and art.
+*My Robotic Friends* is an activity developed by [Thinkersmith](http://thinkersmith.org/){:target="_blank"}. 
+This activity is designed to teach students about Coding a solution to a problem, using an *unplugged* approach. 
+An *unplugged* activity is one that doesn't involve the use of computers at all. 
+One of the most well-known collections of these unplugged activities is [CSUnplugged](http://csunplugged.com/){:target="_blank"}.
 
-## Code Club
+In this activity we will split into two groups - programmers and robots. 
+The programmers will write an *algorithm* (step-by-step and precise instructions) for building a stack of cups using six different symbols.
+The robots will have to follow this algorithm without any assistance from the programmers.
 
-[Code Club](http://www.codeclubau.org/resources){:target="_blank"} has free resources for students to learn Scratch, HTML and CSS, and Python.
+We will provide you with a worksheet for this activity, the original (and more detailed) version of this is [available to download here](https://csedweek.org/files/CSEDrobotics.pdf){:target="_blank"}.
 
-## UoN CS4S
+While the programmers write their algorithm, the robots will be introduced to Scratch. 
+After the programmers have finished writing their algorithms they will swap with the robots and do the *Introduction to Scratch* tutorial. 
 
-One of the sessions we run in the CS4S workshops involves using Scratch. You can try out our activities from the workshop 
-if you'd like: [an Introduction to Scratch]({{ site.baseurl }}/lessons/cs4s_introductory_scratch_introduction.pdf){:target="_blank"} and 
-[Making Cookie Bird]({{ site.baseurl }}/lessons/cs4s_introductory_scratch_cookie_bird.pdf){:target="_blank"}.
+## Introduction to Scratch
+
+[Scratch](https://scratch.mit.edu){:target="_blank"} is a free tool that can be used for creating games, interactive stories and animations. There is also a Scratch community where students can share their work and collaborate on projects together.
+
+In this activity we will work through an *Introduction to Scratch* tutorial, which shows some short examples of what you can do with Scratch. 
+There are many things you can do in Scratch that go beyond the examples in this tutorial.
+Some resources that we recommend for finding out more about Scratch are: [Code Club's tutorials](http://projects.codeclubworld.org/en-GB/){:target="_blank"}, [Google's CS First tutorials](https://www.cs-first.com/materials){:target="_blank"} and [Harvard's Creative Computing Curriculum guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"}.
+
+We will provide you with a copy of the *Introduction to Scratch* tutorial but it is also [available to download here](introduction_to_scratch.docx).
+
+If you are planning to use Scratch with your students, we highly recommend you register for a [Scratch Teacher Account](https://scratch.mit.edu/educators/#teacher-accounts){:target="_blank"} and manage your students' accounts through that. 
+
+If you already familar with Scratch and have completed the *Introduction to Scratch* tutorial already, then we have another tutorial titled [*Making Cookie Bird*](making_cookie_bird.docx) that you can download and work through.
+
